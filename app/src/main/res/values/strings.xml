@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChattingApp</string>
+    <string name="email">Email</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_in_your_account">Sign In Your Account</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="confilm_password">Confilm Password</string>
+    <string name="imessage">iMessage</string>
+</resources>
